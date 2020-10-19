@@ -1,4 +1,4 @@
 # hello-world
 
-Alex here, i like Node.js and QA Automation testing. I am here to lear more by doing
-Exchnage ideas and experineces!
+Alex here, I like Node.js and QA Automation testing. I am here to learn more by doing
+Exchnage ideas and share professional experineces!
